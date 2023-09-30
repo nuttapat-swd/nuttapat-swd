@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 29 September 2023
+From: 02 July 2023 - To: 30 September 2023
 
-Total Time: 307 hrs 55 mins
+Total Time: 308 hrs 24 mins
 
-Python         294 hrs 13 mins ████████████████████████░   95.55 %
-Go             11 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-YAML           31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python         294 hrs 31 mins ████████████████████████░   95.50 %
+Go             11 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+YAML           42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Text           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Git Config     16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JSON           16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %

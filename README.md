@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuttapat-swd
-- IoT Engineer / Backend
+- IoT Engineer / Backend-Developer
 
 <!--START_SECTION:waka-->
 

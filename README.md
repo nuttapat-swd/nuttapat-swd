@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 30 November 2023
+From: 02 July 2023 - To: 01 December 2023
 
-Python         525 hrs 45 mins ████████████████████████░   96.14 %
-Go             11 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JavaScript     4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python         532 hrs 35 mins ████████████████████████░   96.18 %
+Go             11 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JavaScript     4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Git Config     20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 

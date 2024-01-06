@@ -30,7 +30,7 @@ HTML              1 hr 37 mins    ░░░░░░░░░░░░░░░�
 # 💻 Tech Stack:
 ### ⌨️ Programming Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Node.JS](https://img.shields.io/badge/Node.JS-%8EC719.svg?style=flat&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Node.JS](https://img.shields.io/badge/Node.JS-8EC719.svg?style=flat&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)  
 
 ### 📦 Back-end Frameworks & Tools
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-%079487.svg?style=flat&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express.JS-F3E02A.svg?style=flat&logo=express&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-1EAED8.svg?style=flat&logo=gin&logoColor=white) 

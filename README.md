@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-🎓 `Computer Engineer` from `King Mongkut's University of Technology Thonburi`  
+🎓 `Computer Engineer` from `King Mongkut's University of Technology Thonburi`
+
 🔭 Currently working on `Backend Developer`
+
 🔭 Used to work as `Internet of Things Engineer`
+
 🔭 Interested in `Project Manager` and `🍺 Craft Beer Brewers`
-    
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -32,7 +34,9 @@ HTML              1 hr 37 mins    ░░░░░░░░░░░░░░░�
 
 ### 📦 Back-end Frameworks & Tools
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-%079487.svg?style=flat&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express.JS-F3E02A.svg?style=flat&logo=express&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-1EAED8.svg?style=flat&logo=gin&logoColor=white) 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📟 Embedded System Tools
@@ -47,7 +51,9 @@ HTML              1 hr 37 mins    ░░░░░░░░░░░░░░░�
 
 ## ⛰️🥾 My Hiking Adventures
 ![SD](https://img.shields.io/badge/⛰️ภูสอยดาว-%230077B5.svg)
+
 ![SD](https://img.shields.io/badge/⛰️เขาหลวงสุโขทัย-%230077B5.svg)
+
 ![SD](https://img.shields.io/badge/⛰️เขาสันหนอกวัว-%230077B5.svg)
 
 ### ✍️ Random Dev Quote

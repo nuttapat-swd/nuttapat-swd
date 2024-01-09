@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 06 January 2024
+From: 02 July 2023 - To: 07 January 2024
 
-Python            582 hrs 10 mins ███████████████████████▒░   93.02 %
-Go                17 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Java              10 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JavaScript        4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-HTML              1 hr 37 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python            582 hrs 10 mins ███████████████████████░░   92.25 %
+Go                20 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Java              10 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JavaScript        4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Markdown          4 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->

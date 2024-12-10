@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 07 December 2024
+From: 02 July 2023 - To: 08 December 2024
 
-Python             1,215 hrs 36 mins██████████████████████░░░   87.98 %
+Python             1,215 hrs 36 mins██████████████████████░░░   87.92 %
 Go                 49 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 JavaScript         17 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Other              16 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Java               10 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->

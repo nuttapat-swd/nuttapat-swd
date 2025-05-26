@@ -4,9 +4,7 @@
 
 🔭 Currently working on `Backend Developer`
 
-🔭 Used to work as `Internet of Things Engineer`
-
-🔭 Interested in `Project Manager` and `🍺 Craft Beer Brewers`
+🔭 Wanabe `Solution Architect` and `🍺 Craft Beer Brewers`
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

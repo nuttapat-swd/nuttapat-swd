@@ -55,9 +55,3 @@ JavaScript                 17 hrs 14 mins  ▒░░░░░░░░░░░�
 
 ![SD](https://img.shields.io/badge/⛰️เขาสันหนอกวัว-%230077B5.svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
-

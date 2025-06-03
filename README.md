@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 31 May 2025
+From: 02 July 2023 - To: 01 June 2025
 
 Python                     1,414 hrs 49 mins█████████████████████▒░░░   85.99 %
 Go                         50 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %

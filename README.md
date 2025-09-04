@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 01 September 2025
+From: 02 July 2023 - To: 02 September 2025
 
-Python                     1,507 hrs 53 mins█████████████████████▒░░░   84.96 %
+Python                     1,508 hrs 13 mins█████████████████████▒░░░   84.87 %
 Go                         50 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Other                      35 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other                      36 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 JavaScript                 17 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 

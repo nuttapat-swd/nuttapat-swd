@@ -20,4 +20,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 5
-          IGNORED_LANGUAGES: JSON YAML Bash Text
+          IGNORED_LANGUAGES: JSON Text

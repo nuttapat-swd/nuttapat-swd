@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 30 November 2025
+From: 02 July 2023 - To: 01 December 2025
 
-Python                     1,649 hrs 51 mins████████████████████▓░░░░   82.37 %
-Bash                       51 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Python                     1,649 hrs 51 mins████████████████████▓░░░░   82.35 %
+Bash                       51 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 Go                         50 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Other                      48 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-YAML                       41 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other                      48 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+YAML                       41 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->

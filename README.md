@@ -22,6 +22,9 @@ YAML                       41 hrs 21 mins  ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 🗺️ Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/6558383d68ca602613474128?variant=dark&roadmaps=software-architect%2Cdevops%2Cpython%2Cbackend)](https://roadmap.sh)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuttapat-chakpech-7b7827223) 
 

@@ -2,7 +2,7 @@
 
 🎓 `Computer Engineer` from `King Mongkut's University of Technology Thonburi`
 
-🔭 Currently working on `Backend Developer`
+🔭 Currently working on `DevOps Engineer`
 
 🔭 Wanabe `Solution Architect` and `🍺 Craft Beer Brewers`
 

@@ -23,7 +23,7 @@ Bash                       54 hrs 52 mins        ▓░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## 🗺️ Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/wide/6558383d68ca602613474128?variant=dark&roadmaps=software-architect%2Cdevops%2Cpython%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6558383d68ca602613474128?variant=dark&roadmaps=devops%2Csoftware-architect%2Cbackend%2Ckubernetes)](https://roadmap.sh)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuttapat-chakpech-7b7827223) 

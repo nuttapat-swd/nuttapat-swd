@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 01 August 2026
+From: 02 July 2023 - To: 02 August 2026
 
 Python                     1,680 hrs 40 mins     ██████████████████▒░░░░░░   73.35 %
 YAML                       118 hrs 24 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
